@@ -24,7 +24,7 @@ let dw = document.getElementById('down');
 let con = document.getElementById('contact');
 
 con.addEventListener('click', () => {
-    alert('You can contact via email: smit88@gmail.com');
+    alert('You can contact via email: smit@gmail.com');
 });
 
 dw.addEventListener('click', () => {
