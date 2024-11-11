@@ -30,6 +30,6 @@ con.addEventListener('click', () => {
 dw.addEventListener('click', () => {
     alert('ERROR:😅😅');
     setTimeout(() => {
-        alert('You can contact via email: smit88@gmail.com');
+        alert('You can contact via email: smit@gmail.com');
     }, 1000);
 });
